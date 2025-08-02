@@ -7,19 +7,15 @@ Red Team TTPs (Tactics, Techniques, Procedures)
 2. Social Engineering Simulation - Enticing users with a “Job Application/Login” prompt.
 
 3. URL Masking
-
-  a. Custom Render domain or
-
-  b. URL shorteners (Bitly/TinyURL) to make links appear legitimate.
+(Custom Render domain)
+(URL shorteners (Bitly/TinyURL) to make links appear real.)
 
 OSINT & Targeting Support
 1. WHOIS & Recon Tools 
-
-  a. For choosing realistic domain names and ensuring target plausibility.
+(For choosing realistic domain names and ensuring target plausibility.)
 
 2. Shodan / Google Dorks
-
-  b. To assess the target’s digital footprint (for realism in social engineering).
+(To assess the target’s digital footprint (for realism in social engineering).)
 
 Logging & Monitoring
 1. Custom Python Logging - Captures date, IP, User-Agent, and credentials into phishing_attempts.log.
